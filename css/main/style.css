@@ -299,16 +299,16 @@ ul {
 }
 
 .main-block{
-    background: url('../../image/latest1.jpg') no-repeat;
+    background: url(latest1.jpg') no-repeat;
     
 }
 
 .duble-block-first{
-    background: url('/image/latest2.jpg') no-repeat;
+    background: url(latest2.jpg') no-repeat;
 }
 
 .duble-block-second{
-    background: url('/image/latest3.jpg') no-repeat;
+    background: url(latest3.jpg') no-repeat;
 }
 
 .container-news-blocks{
