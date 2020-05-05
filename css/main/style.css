@@ -299,16 +299,28 @@ ul {
 }
 
 .main-block{
+<<<<<<< HEAD
     background: url('latest1.jpg') no-repeat;
+=======
+    background: url(latest1.jpg') no-repeat;
+>>>>>>> ff8e65a7a10bd3197d97d10d1535d79925ad6b20
     
 }
 
 .duble-block-first{
+<<<<<<< HEAD
     background: url('latest2.jpg') no-repeat;
 }
 
 .duble-block-second{
     background: url('latest3.jpg') no-repeat;
+=======
+    background: url(latest2.jpg') no-repeat;
+}
+
+.duble-block-second{
+    background: url(latest3.jpg') no-repeat;
+>>>>>>> ff8e65a7a10bd3197d97d10d1535d79925ad6b20
 }
 
 .container-news-blocks{
