@@ -75,7 +75,7 @@ body {
   #intro {
     width: 100%;
     height: 100vh;
-    background: url(../image/first/introbg.jpg) top center;
+    background: url(./image/first/introbg.jpg) top center;
     background-size: cover;
     overflow: hidden;
     position: relative;
@@ -95,7 +95,7 @@ body {
   
   display: flex;
   justify-content: center;
-  background: url(../image/first/aboutbg.jpg) top center;
+  background: url(./image/first/aboutbg.jpg) top center;
   background-size: cover;
 }
 
