@@ -1,0 +1,59 @@
+.section-cost-event{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-top: 35px;
+    background-color: #f5f572;
+}
+
+.div-text-cost{
+    margin-bottom: 25px;
+    margin-top: 30px;
+}
+
+.div-blocks-cost{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+.div-block-cost{
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    border-radius: 15px;
+    align-self: baseline;
+    width: 40%;
+}
+
+.div-block-cost:hover{
+    background-color: #fff;
+}
+
+.button-buy-tikket{
+    padding: 5px 15px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+    border: 2px solid blue;
+    margin-top: 10px;
+    
+}
+
+.button-buy-tikket:hover{
+    background-color: red;
+}
+
+.div-cost-checking-account{
+    max-width: 890px;
+    text-align: center;
+}
+
